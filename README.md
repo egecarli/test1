@@ -1,2 +1,3 @@
-# test1
-Testing commands - Git
+# test
+---
+Testing commands - Git - to learn how to use it
